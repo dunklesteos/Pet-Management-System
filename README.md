@@ -1,6 +1,8 @@
 # Pet-Management-System
 
 The Pet Management System is a desktop automation application developed in the C programming language using the Raylib and Raygui libraries. It is designed to digitalize and streamline the registration, tracking, and database management processes for veterinary clinics or animal shelters through a modern, dynamic Graphical User Interface (GUI).
+<img width="1097" height="780" alt="image" src="https://github.com/user-attachments/assets/2ec43151-01a2-4093-bd93-ecb4f8ed3686" />
+
 
 Moving beyond traditional terminal-based (command-line) applications, this project delivers a fully interactive, responsive, and user-friendly experience. Under the hood, it rigorously implements core computer science concepts such as dynamic memory management, file I/O persistence, and modular software design.
 
@@ -50,3 +52,8 @@ Display Pet List: Renders the active database in RAM inside a clean, grid-aligne
 Delete Pet By ID: Searches for a specific unique ID. If found, it removes the entry, shifts all subsequent array elements to the left to maintain sequence, and downscales the memory block via realloc.
 
 Vaccinate Pet By ID: Targets a pet by its unique ID, verifies the newly provided calendar date against the validation algorithm, and automatically sets the status field to "vaccinated".
+<img width="1093" height="783" alt="image" src="https://github.com/user-attachments/assets/e2a61e09-cd8b-43d5-b1b9-4de67a941c9a" />
+<img width="1095" height="778" alt="image" src="https://github.com/user-attachments/assets/3c05f847-d614-4bb5-b519-3c6cf5b12033" />
+<img width="1094" height="780" alt="image" src="https://github.com/user-attachments/assets/6af43758-e1c6-414e-90ae-d33bb032576b" />
+
+
