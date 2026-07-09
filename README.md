@@ -1,4 +1,4 @@
-# Pet-Management-System
+Pet Management System
 
 Note: Developed fundamentally in the C programming language, this project was visualized and brought to life using external graphics libraries such as Raylib/Raygui. Although managing external dependencies and configuring the environment presented significant challenges during development, the process provided invaluable hands-on experience in library management, linking external packages, and mastering low-level GUI state structures in C.
 
