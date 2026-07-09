@@ -1,5 +1,7 @@
 # Pet-Management-System
 
+Note: Developed fundamentally in the C programming language, this project was visualized and brought to life using external graphics libraries such as Raylib/Raygui. Although managing external dependencies and configuring the environment presented significant challenges during development, the process provided invaluable hands-on experience in library management, linking external packages, and mastering low-level GUI state structures in C.
+
 The Pet Management System is a desktop automation application developed in the C programming language using the Raylib and Raygui libraries. It is designed to digitalize and streamline the registration, tracking, and database management processes for veterinary clinics or animal shelters through a modern, dynamic Graphical User Interface (GUI).
 <img width="1097" height="780" alt="image" src="https://github.com/user-attachments/assets/2ec43151-01a2-4093-bd93-ecb4f8ed3686" />
 
